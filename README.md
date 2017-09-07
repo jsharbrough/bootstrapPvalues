@@ -1,2 +1,2 @@
 # bootstrapPvalues
-Tool that takes two (or more) bootstrap distributions and calculates p values directly using a two-sided test.
+Tool that takes two (or more) distributions and calculates p values directly using a one- or two-sided test.
